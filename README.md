@@ -37,5 +37,37 @@ Explore the world of automobiles with the Car_Dekho dataset, a comprehensive col
 
   ## Analysis And Insights
   
+  ### Total number of cars
+  
+  ![](Total_car.JPG)
+
+  ### Total number of car available in 2023
+
+  ![](Cars_available%20in%202023.JPG)
+
+  ### Total number of car available in 2020,2021,2022
+  
+  ![](Car_availability%20_2020_2021_2022.JPG)
+
+  ### Total numbers of cars in all the years
+
+  ![](total_number_peryear.JPG)
+
+  ### Diesel cars available in 2020
+  ![](Diesel_car_2020.JPG)
+
+  ### Petrol car available in 2020
+  
+  ![](Petrol_2020.JPG)
+
+  ### Total numbers of all the fuel cars
+  
+  ![](Total_fuel_car.JPG)
+  
+
+  
+
+  
+  
 
 
