@@ -27,7 +27,7 @@ Explore the world of automobiles with the Car_Dekho dataset, a comprehensive col
 
 - Problem-Solving: Addressed specific queries such as identifying cars available in specific years, providing solutions that required a combination of logical thinking and SQL expertise.
 
-  Data Sourcing: This is the link to the dataset
+  Data Sourcing: This is the link to the dataset : https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 
   ## Data Transformation:
   ### Data Cleaning:
